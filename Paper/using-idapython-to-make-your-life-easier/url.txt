@@ -1,0 +1,5 @@
+http://researchcenter.paloaltonetworks.com/2015/12/using-idapython-to-make-your-life-easier-part-1/
+http://researchcenter.paloaltonetworks.com/2015/12/using-idapython-to-make-your-life-easier-part-2/
+http://researchcenter.paloaltonetworks.com/2015/12/using-idapython-to-make-your-life-easier-part-3/
+http://researchcenter.paloaltonetworks.com/2015/12/using-idapython-to-make-your-life-easier-part-4/
+
